@@ -10,6 +10,8 @@
   <a href="https://github.com/amrfekry2/grabby-releases/releases/latest"><b>⬇ Download the latest version</b></a>
 </p>
 
+> **Windows shows "Windows protected your PC"?** Grabby is new, so Windows does not recognise it yet. Click **More info**, then **Run anyway**.
+
 ---
 
 ## What it does
